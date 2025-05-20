@@ -167,7 +167,7 @@ header ul.is-sticky li a.active {
 
 /* start: hero section styles */
 #hero {
-    background: url('/images/hero_1.jpg.webp') center center no-repeat;
+    background: url('images/hero_1.jpg.webp') center center no-repeat;
     background-size: cover;
     position: absolute;
     top: 0;
